@@ -1,8 +1,8 @@
-## DADASequencer
+# DADASequencer
 
 The DADA Sequencer is an Arduino based Sequencer for [DADA Machines](https://www.dadamachines.com/).
 
-# Hardware
+### Hardware
 - 12x Adafruit Trellis 4x4 Button Matrix
 - Start/Stop Button
 - Tap Tempo Button
