@@ -12,6 +12,6 @@ The DADA Sequencer is an Arduino based Sequencer for [DADA Machines](https://www
 - MIDI Output Jack
 - Analog SYNC Output Jack
 
-*future plans:*
-*MIDI INPUT for Sync*
-*USB MIDI INPUT*
+*future plans:
+MIDI INPUT for Sync
+USB MIDI INPUT*
