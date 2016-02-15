@@ -20,7 +20,7 @@ The DADA Sequencer is an Arduino based Sequencer for [DADA Machines](http://www.
 - [ ] implement Accent + Accent Button
 - [ ] implement Sync Slave Mode
 - [ ] casedesign for prototype
-- 
+
 
 ### Copied Code from
 - [Adafruit](http://learn.adafruit.com/untztrument-trellis-midi-instrument)
